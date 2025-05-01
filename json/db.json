@@ -1,0 +1,36 @@
+{
+
+
+    "hotel":  [  {
+
+        "name":"niharika",
+        "age": "26",
+        "checkin":"20-11-2025",
+        "checkout":"21-11-2025",
+        "city":"bhopal",
+        "person":"4",
+        "price":"2000"
+
+    },{
+
+        "name":"sulabh",
+        "age": "26",
+        "checkin":"11-1-2025",
+        "checkout":"12-1-2025",
+        "city":"indore",
+        "person":"3",
+        "price":"4000"
+    },{
+
+        "name":"vivek",
+        "age": "35",
+        "checkin":"20-04-2025",
+        "checkout":"21-04-2025",
+        "city":"raipur",
+        "person":"2",
+        "price":"5500"
+    },{}  ]
+
+
+
+}
