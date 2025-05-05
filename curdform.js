@@ -15,7 +15,20 @@ fetch(url,{
     
     method:"POST",
     headers:{
-        "content-type 
+        "content-type":"application/json"
     },
+
+    body: JSON.stringify(
+        {
+      Name:name,
+      Age:age
+      Checkout:checkin,
+      checkout:checkout,
+      City:city,
+      Person:person,
+      Perice:500
+
+        }
+    )
 })
 }
