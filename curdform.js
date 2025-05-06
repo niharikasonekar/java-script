@@ -21,7 +21,7 @@ fetch(url,{
     body: JSON.stringify(
         {
       Name:name,
-      Age:age
+      Age:age,
       Checkout:checkin,
       checkout:checkout,
       City:city,
